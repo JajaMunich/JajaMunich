@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JajaMunich
 - 👀 I’m interested in everything adventureous...
-- 🌱 I’m currently learning in developing new apps for iOS
+- 🌱 I’m currently learning to develop new apps for iOS
 - ⚡ Fun fact: no risk no fun
 
 <!---
